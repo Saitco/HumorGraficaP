@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="eg8-FF-wMD">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--PRESIDENCY PINEDO-->
+        <scene sceneID="m4s-ot-nut">
+            <objects>
+                <viewController id="eg8-FF-wMD" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="oXe-VV-ZyP"/>
+                        <viewControllerLayoutGuide type="bottom" id="1s9-gS-XbD"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="L3t-TE-mY7">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="PINEDO" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kgQ-Fq-q7r">
+                                <rect key="frame" x="20" y="173" width="280" height="134"/>
+                                <fontDescription key="fontDescription" name="GillSans-Bold" family="Gill Sans" pointSize="56"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.99215686270000003" green="0.7843137255" blue="0.18039215689999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="kgQ-Fq-q7r" firstAttribute="trailing" secondItem="L3t-TE-mY7" secondAttribute="trailingMargin" id="1MB-7W-8TH"/>
+                            <constraint firstItem="1s9-gS-XbD" firstAttribute="top" secondItem="kgQ-Fq-q7r" secondAttribute="bottom" constant="173" id="7jm-oO-faz"/>
+                            <constraint firstItem="kgQ-Fq-q7r" firstAttribute="centerY" secondItem="L3t-TE-mY7" secondAttribute="centerY" id="W9Z-8N-f4d"/>
+                            <constraint firstItem="kgQ-Fq-q7r" firstAttribute="leading" secondItem="L3t-TE-mY7" secondAttribute="leadingMargin" id="bnG-mT-Tqg"/>
+                            <constraint firstItem="kgQ-Fq-q7r" firstAttribute="top" secondItem="oXe-VV-ZyP" secondAttribute="bottom" constant="153" id="imu-cj-nkt"/>
+                            <constraint firstItem="kgQ-Fq-q7r" firstAttribute="centerX" secondItem="L3t-TE-mY7" secondAttribute="centerX" id="jJr-vh-7Lk"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" title="PRESIDENCY PINEDO" id="Od1-WK-4RL">
+                        <barButtonItem key="backBarButtonItem" title="Back" id="cfZ-rD-Syw"/>
+                    </navigationItem>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="icQ-t8-TJl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-327" y="343"/>
+        </scene>
+    </scenes>
+</document>

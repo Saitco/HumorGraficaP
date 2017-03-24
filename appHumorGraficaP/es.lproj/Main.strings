@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "THANKS FOR HELP WITH THE COUNTRY"; ObjectID = "4AO-qP-q5l"; */
+"4AO-qP-q5l.normalTitle" = "GRACIAS POR CONTRIBUIR CON LA PATRIA";
+
+/* Class = "UITextField"; placeholder = "Law text"; ObjectID = "Aqa-cH-C8j"; */
+"Aqa-cH-C8j.placeholder" = "Texto ley";
+
+/* Class = "UITextField"; text = "73"; ObjectID = "FUM-hz-CCp"; */
+"FUM-hz-CCp.text" = "73";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "KMf-1L-IHh"; */
+"KMf-1L-IHh.title" = "Atrás";
+
+/* Class = "UIButton"; normalTitle = "VISUALIZE"; ObjectID = "Rfi-eP-SFy"; */
+"Rfi-eP-SFy.normalTitle" = "VISUALIZAR";
+
+/* Class = "UINavigationItem"; title = "PRESIDENCY PINEDO"; ObjectID = "TKZ-yW-eGm"; */
+"TKZ-yW-eGm.title" = "PRESIDENCIA PINEDO";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "ga2-GX-FTi"; */
+"ga2-GX-FTi.normalTitle" = "GUARDAR";
+
+/* Class = "UITextField"; placeholder = "Law number"; ObjectID = "iGp-Vk-gat"; */
+"iGp-Vk-gat.placeholder" = "Número ley";
+
+/* Class = "UILabel"; text = "Laws made by you are subject under their responsibility"; ObjectID = "qn5-1o-bNI"; */
+"qn5-1o-bNI.text" = "Las leyes dictadas por usted quedan sujetas bajo su responsabilidad";

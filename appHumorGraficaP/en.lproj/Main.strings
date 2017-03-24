@@ -1,0 +1,54 @@
+
+/* Class = "UINavigationItem"; title = "PRESIDENCIA PINEDO"; ObjectID = "0lG-rP-tLK"; */
+"0lG-rP-tLK.title" = "PRESIDENCIA PINEDO";
+
+/* Class = "UIBarButtonItem"; title = "Atrás"; ObjectID = "6CU-ZV-aqW"; */
+"6CU-ZV-aqW.title" = "Atrás";
+
+/* Class = "UIView"; accessibilityLabel = "COLOR TEXTO"; ObjectID = "9HF-44-JLd"; */
+"9HF-44-JLd.accessibilityLabel" = "COLOR TEXTO";
+
+/* Class = "UIViewController"; title = "RESULTADO"; ObjectID = "BeN-gS-sCP"; */
+"BeN-gS-sCP.title" = "RESULTADO";
+
+/* Class = "UILabel"; text = "Texto Inferior"; ObjectID = "Du1-Hq-HbX"; */
+"Du1-Hq-HbX.text" = "Texto Inferior";
+
+/* Class = "UIViewController"; title = "ColorFondo2"; ObjectID = "Evv-Af-dmU"; */
+"Evv-Af-dmU.title" = "ColorFondo2";
+
+/* Class = "UISegmentedControl"; Mtv-oa-nHW.segmentTitles[0] = "FONDO"; ObjectID = "Mtv-oa-nHW"; */
+"Mtv-oa-nHW.segmentTitles[0]" = "FONDO";
+
+/* Class = "UISegmentedControl"; Mtv-oa-nHW.segmentTitles[1] = "TEXTO"; ObjectID = "Mtv-oa-nHW"; */
+"Mtv-oa-nHW.segmentTitles[1]" = "TEXTO";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "Svl-db-nmu"; */
+"Svl-db-nmu.text" = "R";
+
+/* Class = "UILabel"; text = "El contenido publicado queda sujeto bajo su responsabilidad."; ObjectID = "b5l-EG-zvb"; */
+"b5l-EG-zvb.text" = "El contenido publicado queda sujeto bajo su responsabilidad.";
+
+/* Class = "UILabel"; text = "Marco superior"; ObjectID = "cwa-HZ-qbP"; */
+"cwa-HZ-qbP.text" = "Marco superior";
+
+/* Class = "UINavigationItem"; title = "VISTA PREVIA"; ObjectID = "d8A-3a-Uwd"; */
+"d8A-3a-Uwd.title" = "VISTA PREVIA";
+
+/* Class = "UISegmentedControl"; dnw-53-l6a.segmentTitles[0] = "FONDO"; ObjectID = "dnw-53-l6a"; */
+"dnw-53-l6a.segmentTitles[0]" = "FONDO";
+
+/* Class = "UISegmentedControl"; dnw-53-l6a.segmentTitles[1] = "TEXTO"; ObjectID = "dnw-53-l6a"; */
+"dnw-53-l6a.segmentTitles[1]" = "TEXTO";
+
+/* Class = "UIButton"; normalTitle = "VISUALIZAR"; ObjectID = "gDY-xp-WJy"; */
+"gDY-xp-WJy.normalTitle" = "VISUALIZAR";
+
+/* Class = "UIButton"; normalTitle = "GUARDAR"; ObjectID = "ga2-GX-FTi"; */
+"ga2-GX-FTi.normalTitle" = "GUARDAR";
+
+/* Class = "UILabel"; text = "B"; ObjectID = "kgM-7O-6Re"; */
+"kgM-7O-6Re.text" = "B";
+
+/* Class = "UILabel"; text = "G"; ObjectID = "yuO-mz-Klh"; */
+"yuO-mz-Klh.text" = "G";

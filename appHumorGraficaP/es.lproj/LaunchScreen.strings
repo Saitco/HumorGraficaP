@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Laws made by you are subject under their responsibility"; ObjectID = "3KZ-PX-FxN"; */
+"3KZ-PX-FxN.text" = "Las leyes dictadas por usted quedan sujetas bajo su responsabilidad";
+
+/* Class = "UIButton"; normalTitle = "VISUALIZE"; ObjectID = "Ajx-GO-5gX"; */
+"Ajx-GO-5gX.normalTitle" = "VISUALIZAR";
+
+/* Class = "UINavigationItem"; title = "PRESIDENCY PINEDO"; ObjectID = "Od1-WK-4RL"; */
+"Od1-WK-4RL.title" = "PRESIDENCIA PINEDO";
+
+/* Class = "UINavigationItem"; title = "PRESIDENCY PINEDO"; ObjectID = "SCU-st-RcV"; */
+"SCU-st-RcV.title" = "PRESIDENCIA PINEDO";
+
+/* Class = "UITextField"; placeholder = "Law text"; ObjectID = "SmZ-oS-NlV"; */
+"SmZ-oS-NlV.placeholder" = "Texto ley";
+
+/* Class = "UITextField"; placeholder = "Law number"; ObjectID = "VbM-Hs-c9E"; */
+"VbM-Hs-c9E.placeholder" = "Número ley";
+
+/* Class = "UITextField"; text = "73"; ObjectID = "Wqc-nv-kZb"; */
+"Wqc-nv-kZb.text" = "73";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "cfZ-rD-Syw"; */
+"cfZ-rD-Syw.title" = "Atrás";
