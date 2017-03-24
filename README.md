@@ -1,4 +1,4 @@
-# EXTClass
+# HumorGraficaP
 
 <!-- [![Version](https://img.shields.io/cocoapods/v/EXTClass.svg?style=flat)](http://cocoapods.org/pods/EXTClass) -->
 <!-- [![License](https://img.shields.io/cocoapods/l/EXTClass.svg?style=flat)](http://cocoapods.org/pods/EXTClass) -->
@@ -11,9 +11,9 @@ App de prueba.
 
 <!--To run the example project, clone the repo, and run `pod install` from the Example directory first.-->
 
-## Requirements
+<!-- ## Requirements -->
 
-> iOS 8.3 and Swift 3.0
+<!-- > iOS 8.3 and Swift 3.0 -->
 
 <!-- ## Installation -->
 
