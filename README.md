@@ -4,11 +4,11 @@
 [![Platform](https://img.shields.io/cocoapods/p/EXTClass.svg?style=flat)](http://cocoapods.org/pods/EXTClass)
 [![Build Status](https://travis-ci.org/Saitco/HumorGraficaP.svg?branch=master)](https://travis-ci.org/Saitco/HumorGraficaP)
 
-Primera App de prueba.
+First Test App.
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+To run the PINEDO project, clone the repo, and compile it.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ Matias Correnti, [@matCorrenti](http://twitter.com/matCorrenti).
 
 ## License
 
-EXTClass is available under the MIT license. See the [LICENSE](https://github.com/Saitco/HumorGraficaP/blob/master/LICENSE) file for more info.
+HumorGraficaP is available under the MIT license. See the [LICENSE](https://github.com/Saitco/HumorGraficaP/blob/master/LICENSE) file for more info.
 
 
 <!-- Links -->
