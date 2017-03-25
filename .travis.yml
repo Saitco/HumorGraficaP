@@ -1,0 +1,26 @@
+# references:
+# * http://www.objc.io/issue-6/travis-ci.html
+# * https://github.com/supermarin/xcpretty#usage
+
+osx_image: xcode8.2
+language: objective-c
+# cache: cocoapods
+# podfile: Example/Podfile
+# before_install:
+# - gem install cocoapods # Since Travis is not always on latest version
+# - pod install --project-directory=Example
+
+# - xcodebuild -scheme SwiftExample -workspace SwiftExample.xcworkspace -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6S,OS=9.1' build test
+# after_success:
+#   - bash <(curl -s https://codecov.io/bash)
+
+# script:
+# - set -o pipefail &&xcodebuild test -workspace Example/EXTClass.xcworkspace -scheme EXTClass-Example -sdk iphonesimulator9.3 ONLY_ACTIVE_ARCH=NO | xcpretty
+# - pod lib lint
+
+
+script:
+- xcodebuild test -workspace PINEDO.xcworkspace -scheme Pinedo-Example -sdk iphonesimulator9.3 ONLY_ACTIVE_ARCH=NO | xcpretty
+
+# after_success:
+  # - bash <(curl -s https://codecov.io/bash)
